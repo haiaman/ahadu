@@ -1,2 +1,3 @@
 # ahadu
-init
+
+This is Ahadu project
